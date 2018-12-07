@@ -20,7 +20,7 @@
 </template>
 
 <script>
-var cityProvinceCode = require('../utils/cityProvinceCode.js')
+var cityProvinceCode = require('./cityProvinceCode')
 
 const citys = []
 export default {
